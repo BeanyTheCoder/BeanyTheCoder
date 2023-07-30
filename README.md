@@ -1,6 +1,6 @@
 # Hi 👋, I'm Alexander Afoko Jnr
 
-## a passionate 13-year-old frontend developer from Ghana
+### a passionate 13-year-old frontend developer from Ghana
 
 - 🌱 I’m currently learning the **MERN** techstack (MongoDB, Expressjs, Reactjs, Node.js)
 
