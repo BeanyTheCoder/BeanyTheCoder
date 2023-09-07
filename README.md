@@ -1,6 +1,14 @@
-# Hi 👋, I'm Alexander Afoko Jnr
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=BeanyTheCoder&style=flat-square&color=blue" alt=""/>
+</div>
 
-### a passionate 13-year-old frontend developer from Ghana
+# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Alexander Afoko Jnr
+
+## About me:
+
+I am passionate 13-year-old frontend developer from Ghana
 
 - 🌱 I’m currently learning the **MERN** techstack (MongoDB, Expressjs, Reactjs, Node.js)
 
@@ -8,9 +16,7 @@
   
 - 📫 Contact me at **alexanderafoko@gmail.com**
 
-### Connect with me:
-
-## My skills
+## My skills 👨‍💻
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 &nbsp;
@@ -25,6 +31,12 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 &nbsp;
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+
+## My stats 🔥
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BeanyTheCoder&theme=dark&background=000000)](https://git.io/streak-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeanyTheCoder&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **BeanyTheCoder/BeanyTheCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
