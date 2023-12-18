@@ -8,13 +8,17 @@
 
 ## About me:
 
-I am passionate 13-year-old frontend developer from Ghana
+I am passionate 14-year-old frontend developer from Ghana
 
 - 🌱 I’m currently learning the **MERN** techstack (MongoDB, Expressjs, Reactjs, Node.js)
 
-- 🔭 I’m currently working on a full-scale project with professionals(to increase experience and work-ethic)
+- 🔭 I’m currently working on a simple reactjs-based notes-taking app
+
+- 👯 I’m looking to collaborate on anything web-dev related, just contact me
+
+- ⚡ Fun fact  **beans** are an excellent source of vegetable protein and minerals such as iron, magnesium and zinc!
   
-- 📫 Contact me at **alexanderafoko@gmail.com**
+- 📫 Contact me by mail at **alexanderafoko@gmail.com**, or on discord: beanythecoder
 
 ## My skills 👨‍💻
 
