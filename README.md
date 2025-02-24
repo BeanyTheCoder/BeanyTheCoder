@@ -12,7 +12,7 @@ I am passionate 15-year-old frontend developer from Ghana
 
 - 🌱 I was learning the **MERN** techstack (MongoDB, Expressjs, Reactjs, Node.js) but i think I'll shift to Python for a bit
 
-- 🔭 I’m currently working on a simple reactjs-based notes-taking app
+- 🔭 I’m currently working on a micropython program for the LEGO MINDSTORMS EV3 system
 
 - 👯 I’m looking to collaborate on anything web-dev related, just contact me
 
